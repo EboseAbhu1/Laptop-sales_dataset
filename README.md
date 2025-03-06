@@ -13,3 +13,10 @@ Evaluate the sales performance of various laptop brands and models. Identify mar
 - The revenue and percentage share of different laptop category Typename
 - The number of laptops sold with different RAM configurations.
 - Maximum and Minimum Laptop Inches
+
+## Process 
+- Loaded data on Microsoft Excel, created another sheet and loaded data to be cleaned
+- Cleaning processes used; Removing duplicates, space lines, changing data formats, aligned data, checked for misspelled words
+- Sort and filter data
+- Analysed the data and export to Power BI
+- Importing excel file in Power Bi, transform data and created report
