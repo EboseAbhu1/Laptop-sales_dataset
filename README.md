@@ -22,4 +22,4 @@ Evaluate the sales performance of various laptop brands and models. Identify mar
 - Importing excel file in Power Bi, transform data and created report
 
 ## Dashboard
-- <a href ="https://github.com/EboseAbhu1/Laptop-sales_dataset/blob/main/Laptop_Dataset.pdf"
+https://github.com/EboseAbhu1/Laptop-sales_dataset/blob/main/Laptop_Dataset.pdf
