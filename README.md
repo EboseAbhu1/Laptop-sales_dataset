@@ -20,3 +20,6 @@ Evaluate the sales performance of various laptop brands and models. Identify mar
 - Sort and filter data
 - Analysed the data and export to Power BI
 - Importing excel file in Power Bi, transform data and created report
+
+## Dashboard
+- <a href ="https://github.com/EboseAbhu1/Laptop-sales_dataset/blob/main/Laptop_Dataset.pdf"
