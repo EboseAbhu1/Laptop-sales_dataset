@@ -13,6 +13,7 @@ Evaluate the sales performance of various laptop brands and models. Identify mar
 - The revenue and percentage share of different laptop category Typename
 - The number of laptops sold with different RAM configurations.
 - Maximum and Minimum Laptop Inches
+- Dashboard Interaction - <a href="https://github.com/EboseAbhu1/Laptop-sales_dataset/blob/main/Laptop_Dataset.pdf" > View Dashboard</a>
 
 ## Process 
 - Loaded data on Microsoft Excel, created another sheet and loaded data to be cleaned
@@ -23,3 +24,18 @@ Evaluate the sales performance of various laptop brands and models. Identify mar
 
 ## Dashboard
 https://github.com/EboseAbhu1/Laptop-sales_dataset/blob/main/Laptop_Dataset.pdf
+
+## Insights
+- Top companies/brands by sales: Dell ($18.18M), Lenovo ($16.84M), HP ($15.22M), Asus ($9.2M), MSI ($4.87M)
+- Market Share by Type: Notebook: 55.81%, Gaming: 15.93%, Ultrabook: 14.99%, 2 in 1 Convertible: 9.11%, Workstation: 1.88%, Netbook: 0.27%
+- Most common RAM sold: 8GB (601 units), 4GB (368 units), 16GB (194 units).
+- Least common RAM sold: 64GB (1 unit), 24GB (3 units), 32GB (17 units).
+
+ ## Final Conclusion
+ The laptop market is expected to continue its growth in the next quarter. Here are some key projections:
+- Revenue Growth: The global laptop market is projected to reach $60.6 billion in 2025, with an annual growth rate of 2.80% from 2025 to 2029.
+- Market Trends: The demand for thin and lightweight models with long battery life is expected to drive sales.
+- Units: Notebook PC demand is high and more production will bring in more sales and profits.
+
+
+
