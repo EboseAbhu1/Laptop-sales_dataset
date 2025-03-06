@@ -23,7 +23,7 @@ Evaluate the sales performance of various laptop brands and models. Identify mar
 - Importing excel file in Power Bi, transform data and created report
 
 ## Dashboard
-https://github.com/EboseAbhu1/Laptop-sales_dataset/blob/main/Laptop_Dataset.pdf
+![Screenshot (22)](https://github.com/user-attachments/assets/c03f7699-32be-41fa-bd93-1164ed12108b) 
 
 ## Insights
 - Top companies/brands by sales: Dell ($18.18M), Lenovo ($16.84M), HP ($15.22M), Asus ($9.2M), MSI ($4.87M)
